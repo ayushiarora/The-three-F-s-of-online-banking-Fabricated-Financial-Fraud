@@ -23,3 +23,8 @@ We present a synthetic dataset generated using the simulator called PaySim as an
 ### PROBLEM STATEMENT
 #### How can we regulate in case the attribute "isFlaggedFraud" gets set or not ?
 
+
+## PROJECT MEMBERS:
+* Ashwini Gore
+* Ayushi Arora
+* Krishna Vanvari 
