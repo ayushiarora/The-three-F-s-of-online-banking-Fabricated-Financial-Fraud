@@ -21,5 +21,5 @@ We present a synthetic dataset generated using the simulator called PaySim as an
 *	isFlaggedFraud - flags illegal attempts to transfer more than 200.000 in a single transaction.
 
 ### PROBLEM STATEMENT
-##### How can we regulate in case the attribute "isFlaggedFraud" gets set or not ?
+#### How can we regulate in case the attribute "isFlaggedFraud" gets set or not ?
 
