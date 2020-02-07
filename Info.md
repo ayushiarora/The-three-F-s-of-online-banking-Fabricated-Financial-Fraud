@@ -20,7 +20,7 @@ We present a synthetic dataset generated using the simulator called PaySim as an
 *	isFraud - identifies a fraudulent transaction (1) and non fraudulent (0)
 *	isFlaggedFraud - flags illegal attempts to transfer more than 200.000 in a single transaction.
 
-### The Dimensions of the Data Set are : "1048576 Rows and 11 Columns".
+#### The Dimensions of the Data Set are : "1048576 Rows and 11 Columns".
 
 ### PROBLEM STATEMENT
 #### How can we regulate in case the attribute "isFlaggedFraud" gets set or not ?
