@@ -1,4 +1,4 @@
-# SURVEY FOR YOUNG PEOPLE 
+# SURVEY OF YOUNG PEOPLE 
 Using R
 
 ### Introduction
