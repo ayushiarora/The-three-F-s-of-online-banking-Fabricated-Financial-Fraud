@@ -183,11 +183,11 @@ This Project aims at predicting behaviour patterns in young adults. The Young Pe
 #### DEMOGRAPHICS
 | Sr. No | Column Name | Description | Data Type |
 | --- | --- | --- | --- | 
-| 141 |Age: |   | (integer) | 
-| 142 |Height: |   | (integer) | 
-| 143 |Weight: |   | (integer) | 
-| 144 |How many siblings do you have?: |   | (integer) | 
-| 145 |Gender: |   | Female - Male (categorical) | 
+| 141 |Age: | Age | (integer) | 
+| 142 |Height: | Height | (integer) | 
+| 143 |Weight: | Weight | (integer) | 
+| 144 |How many siblings do you have?: | Number of siblings | (integer) | 
+| 145 |Gender: | Female - Male  | categorical | 
 | 146 |I am: |  Left handed - Right handed |  (categorical) | 
 | 147 |Highest education achieved: |  Currently a Primary school pupil - Primary school - Secondary school - College/Bachelor degree  | (categorical) | 
 | 148 |I am the only child: |  No - Yes  | (categorical) | 
