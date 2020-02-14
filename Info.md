@@ -1,5 +1,5 @@
-# SURVEY OF YOUNG PEOPLE 
-Using R
+# SURVEY OF YOUNG PEOPLE
+Using R we will carry out the survey for the young people
 
 ### Introduction
 This Project aims at predicting behaviour patterns in young adults. The Young People Survey dataset is a survey conducted in the UK.The dataset is divided into 2 csv files.
@@ -201,6 +201,6 @@ This Project aims at predicting behaviour patterns in young adults. The Young Pe
 
 
 ## PROJECT MEMBERS:
-* Ashwini Gore
-* Ayushi Arora
-* Krishna Vanvari 
+* [Ashwini Gore](https://github.com/ashwinigore9070)
+* [Ayushi Arora](https://github.com/ayushiarora)
+* [Krishna Vanvari](https://github.com/krishnavanvari)
