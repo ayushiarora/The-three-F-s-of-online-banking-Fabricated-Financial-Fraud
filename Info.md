@@ -3,18 +3,18 @@ Using R
 
 ### Introduction
 This Project aims at predicting behaviour patterns in young adults using supervised learning approach. The Young People Survey dataset is a survey conducted in the UK.The dataset is divided into 2 csv files.
-*The survey was presented to participants in both electronic and written form.
-*The original questionnaire was in Slovak language and was later translated into English.
-*All participants were of Slovakian nationality, aged between 15-30.
-*The variables can be split into the following groups:
-     *Music preferences (19 items)
-     *Movie preferences (12 items)
-     *Hobbies & interests (32 items)
-     *Phobias (10 items)
-     *Health habits (3 items)
-     *Personality traits, views on life, & opinions (57 items)
-     *Spending habits (7 items)
-     *Demographics (10 items)
+* The survey was presented to participants in both electronic and written form.
+* The original questionnaire was in Slovak language and was later translated into English.
+* All participants were of Slovakian nationality, aged between 15-30.
+* The variables can be split into the following groups:
+     * Music preferences (19 items)
+     * Movie preferences (12 items)
+     * Hobbies & interests (32 items)
+     * Phobias (10 items)
+     * Health habits (3 items)
+     * Personality traits, views on life, & opinions (57 items)
+     * Spending habits (7 items)
+     * Demographics (10 items)
 
 ### DATASET DICTIONARY
 #### MUSIC PREFERENCES
